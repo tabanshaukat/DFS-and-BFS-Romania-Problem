@@ -1,6 +1,3 @@
-
-package dfs_bfs_Astar;
-
 import java.io.*; 
 import java.util.*; 
 class Graph 
